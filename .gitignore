@@ -1,0 +1,9 @@
+﻿manus-routes.json
+package.json
+package-lock.json
+node_modules/
+.vscode/
+app.config.ts
+server.mjs
+TODO.md
+*.zip
